@@ -22,7 +22,9 @@ This project crawls the [Worldometer website](https://www.worldometers.info/coro
 ### Getting Started
 1. Clone the repository using `git clone`
 2. Install the required libraries using `pip install -r requirements.txt`
-3. Run the program using `python run.py`
+3. Install Tkinter by `sudo apt-get install python3-tk`
+4. Verify Tkinter install by `python -m tkinter`
+5. Run the program using `python run.py`
 ### Example Use Cases
 * Extract COVID-19 data for a specific country or continent
 * Analyze the change in active cases or daily deaths over time
